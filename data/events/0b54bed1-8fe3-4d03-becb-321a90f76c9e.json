@@ -1,0 +1,18 @@
+{
+  "audiovisual_files": {
+    "0d78eaae-e65f-4dcc-a2fc-04046e09f231": {
+      "label": "Bluegrass and Mountains Work Songs in Old Time Music",
+      "is_offline": false,
+      "file_url": "{\"@context\":\"http://iiif.io/api/presentation/3/context.json\",\"id\":\"https://americanarchive.org/cpb-aacip-500-b27psr9n.iiif\",\"type\":\"Manifest\",\"label\":{\"en\":[\"Bluegrass and mountains; Work songs in old time music\"]},\"metadata\":[{\"label\":{\"en\":[\"id\"]},\"value\":{\"en\":[\"cpb-aacip-500-b27psr9n\"]}}],\"homepage\":[{\"id\":\"https://americanarchive.org/catalog/cpb-aacip-500-b27psr9n\",\"type\":\"Text\",\"label\":{\"en\":[\"Bluegrass and mountains; Work songs in old time music\"]},\"format\":\"text/html\"}],\"summary\":{\"en\":[\"This program focuses on the work songs that were a part of old time music.\"]},\"items\":[{\"id\":\"https://americanarchive.org/iiif/cpb-aacip-500-b27psr9n/canvas\",\"type\":\"Canvas\",\"duration\":885.0,\"items\":[{\"id\":\"https://americanarchive.org/iiif/cpb-aacip-500-b27psr9n/annotationpage/1\",\"type\":\"AnnotationPage\",\"items\":[{\"id\":\"https://americanarchive.org/iiif/cpb-aacip-500-b27psr9n/annotation/1\",\"type\":\"Annotation\",\"motivation\":\"painting\",\"body\":{\"id\":\"https://americanarchive.org/media/cpb-aacip-500-b27psr9n\",\"type\":\"Sound\",\"format\":\"audio/vnd.wave\",\"duration\":885.0},\"target\":\"https://americanarchive.org/iiif/canvas/1\"}]}]}]}",
+      "duration": 885
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "âBluegrass and mountains; Work songs in old time music.â 1966-11-15. University of Maryland, American Archive of Public Broadcasting (GBH and the Library of Congress), Boston, MA and Washington, DC. Web. October 23, 2024.",
+  "item_type": "Audio",
+  "label": "Bluegrass and Mountains Work Songs in Old Time Music",
+  "created_at": "2024-10-23T15:38:20.839Z",
+  "created_by": "saamturner",
+  "updated_at": "2024-10-23T15:38:20.839Z",
+  "updated_by": "saamturner"
+}
